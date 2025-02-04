@@ -1,0 +1,28 @@
+{
+  "name": "Open my files",
+  "type": "directory",
+  "Folders": [
+    {
+      "name": "Documents",
+      "type": "directory",
+      "Folders": [
+        { "name": "Shubham-frontend.pdf", "type": "file" },
+        { "name": "React-js.tex", "type": "file" }
+      ]
+    },
+    {
+      "name": "Photos",
+      "type": "directory",
+      "Folders": [
+        {
+          "name": "msdImage.jpg",
+          "type": "file"
+        },
+        {
+          "name": "viratImage.jpg",
+          "type": "file"
+        }
+      ]
+    }
+  ]
+}
